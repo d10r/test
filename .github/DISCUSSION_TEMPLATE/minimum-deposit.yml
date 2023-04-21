@@ -4,7 +4,7 @@ body:
     id: token
     attributes:
       label: Console link to the SuperToken
-      description: (example: https://console.superfluid.finance/optimism-mainnet/supertokens/0x4ac8bD1bDaE47beeF2D1c6Aa62229509b962Aa0d)
+      description: example link: https://console.superfluid.finance/optimism-mainnet/supertokens/0x4ac8bD1bDaE47beeF2D1c6Aa62229509b962Aa0d
     validations:
       required: true
 
@@ -12,7 +12,7 @@ body:
     id: amount
     attributes:
       label: Proposed minimium deposit amount
-      description: (example: 0.03)
+      description: example amount: 0.03
     validations:
       required: true
 
