@@ -18,7 +18,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Comments (optional)
-      description: Additional comments / context / explanations / clarifications
+      label: Comments
+      description: Optional additional comments / context / explanations / clarifications
     validations:
       required: false
