@@ -4,8 +4,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is text that will show up in the template!
-body:
+        See the [Minimum Deposit Guidelines](https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy) for how to use this: https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy
   - type: input
     id: token
     attributes:
