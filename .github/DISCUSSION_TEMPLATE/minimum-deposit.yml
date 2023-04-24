@@ -1,10 +1,9 @@
 title: "[Minimum Deposit for SuperToken] "
-labels: ["See the [Minimum Deposit Guidelines](https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy) for how to use this: https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy"]
 body:
   - type: markdown
     attributes:
       value: |
-        See the [Minimum Deposit Guidelines](https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy) for how to create this proposal.
+        See the [Minimum Deposit Guidelines](https://github.com/superfluid-finance/protocol-monorepo/wiki/Governance-Process:-Minimum-Deposit-Policy) for instructions.
   - type: input
     id: token
     attributes:
